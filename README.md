@@ -24,7 +24,7 @@
 
 ## ♓ About me
 
-- I'm 19 years old and I love music, reading, technology and video games.
+- I'm 20 years old and I love music, reading, technology and video games.
 
 - I'm currently a first semester student of engineering in artificial intelligence at "ESCOM - IPN" in Mexico City.
 
